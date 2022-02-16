@@ -13,7 +13,7 @@
     "resources": [
         {
             "type": "Microsoft.Resources/resourceGroups",
-            "apiVersion": "2021-04-01",
+            "apiVersion": "2018-05-01",
             "name": "[parameters('rgName')]",
             "location": "[parameters('rgLocation')]",
             "properties": {}
