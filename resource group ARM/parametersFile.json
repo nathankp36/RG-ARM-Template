@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "rgName": {
-      "value": null
+      "value": "nathankeyvault36"
     },
     "rgLocation": {
-      "value": null
+      "value": "East US"
     }
   }
 }
